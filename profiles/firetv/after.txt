@@ -1,0 +1,7 @@
+DONE. Next steps:
+
+1. Restart the Fire TV and test the apps you use.
+2. Fire OS has no "Apps only mode" and does not allow a replacement home
+   screen, so the home layout will look the same. This only switched off
+   background apps.
+3. When you are finished, turn ADB Debugging OFF in Developer options.

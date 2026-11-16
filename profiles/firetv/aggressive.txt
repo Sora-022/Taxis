@@ -1,0 +1,3 @@
+# AGGRESSIVE: update machinery. You may stop getting security updates.
+com.amazon.tv.forcedotaupdater.v2  # Forced OTA updater
+com.amazon.dcp                # Device control platform (updates/registration)

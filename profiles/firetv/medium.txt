@@ -1,0 +1,8 @@
+# MEDIUM: also logging, metrics, sale and game services.
+com.amazon.device.sale.service  # Sale/promo service
+com.amazon.ags.app            # GameCircle
+com.amazon.logan              # Usage logging
+com.amazon.device.logmanager  # Log manager
+com.amazon.device.crashmanager  # Crash reporting
+com.amazon.ftv.screensaver    # Ambient screensaver
+com.amazon.tv.csapp           # Customer support app

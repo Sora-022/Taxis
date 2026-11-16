@@ -1,0 +1,5 @@
+{
+  "_note": "Optional extra launchers downloaded from the latest GitHub release (the first .apk asset). Add entries like {\"name\": \"...\", \"github\": \"owner/repo\"}. Only use repos whose Releases page lists an .apk file. The included Taxis Launcher does not need this list.",
+  "_warning": "taxis installs whatever .apk a listed repo's latest release contains. Only add repos whose authors you trust.",
+  "launchers": []
+}

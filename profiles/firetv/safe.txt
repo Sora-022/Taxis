@@ -1,0 +1,9 @@
+# SAFE: shopping, promos, photos, calling. Community-reported candidates.
+# taxis only touches packages that are actually installed on YOUR stick.
+com.amazon.shoptv.client      # Shop TV
+com.amazon.bueller.photos     # Amazon Photos
+com.amazon.bueller.music      # Amazon Music
+com.amazon.tcomm.client       # Alexa calling/messaging
+com.amazon.tcomm              # Alexa calling/messaging
+com.amazon.ods.kindleconnect  # Kindle connect
+com.amazon.imdb.tv.android.app  # Freevee / IMDb TV

@@ -1,0 +1,12 @@
+# Never touched by any profile, even if someone adds them by mistake.
+com.amazon.tv.launcher        # Fire TV home screen
+com.amazon.tv.settings.v2     # Settings
+com.amazon.tv.settings        # Settings (older)
+com.amazon.firetv.setup       # Setup wizard / Wi-Fi
+com.amazon.avod               # Prime Video (core)
+com.amazon.amazonvideo.livingroom  # Prime Video (core)
+com.amazon.device.software.ota.override
+com.amazon.tv.fireinput       # Remote / input handling
+com.android.providers.settings
+com.android.shell
+com.amazon.dcp.contracts.framework.library

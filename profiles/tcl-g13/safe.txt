@@ -1,0 +1,13 @@
+# SAFE (batch 1): preloaded games, streaming apps, demos, logging, AnyDesk.
+# Tested on TCL G13_2K_GB, Google TV 14, firmware AU07.
+com.vectorunit.red                   # preloaded game
+com.vectorunit.purple.googleplay     # preloaded game
+com.tencent.qqlivei18n               # WeTV
+com.iqiyi.i18n.tv                    # iQIYI
+com.bstar.intl.tv                    # Bstation
+com.tv.loklok                        # Loklok
+com.google.android.play.games        # Play Games
+com.mediatek.MtkDemo                 # demo app
+fusion.android.tv.demo               # demo app
+com.tcl.logkit                       # TCL logging
+com.anydesk.anydeskandroid           # AnyDesk (only if you don't use it)

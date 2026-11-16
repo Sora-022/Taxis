@@ -1,0 +1,3 @@
+# MEDIUM (batch 2): TCL promo/message services. Test after each.
+com.tcl.waterfall.overseas           # TCL promoted content rows (probable)
+com.tcl.messagebox                   # TCL pop-up messages

@@ -1,0 +1,13 @@
+DONE. Next steps:
+
+1. Restart the TV (unplug it for ~10 seconds) and test the apps you use.
+
+2. Want a cleaner home screen with fewer recommendations? Turn on Apps only mode:
+     Settings > Accounts & Sign In > (your profile) > Apps only mode > Turn on
+     then press the Home button on the remote.
+   Trade-offs: Search and the voice button stop working, and you must turn
+   it off again to install apps. Sponsored content may still appear.
+   To turn it off: same menu > Apps only mode > off.
+
+3. When you are finished, turn USB debugging / Network debugging OFF
+   in the TV's Developer options.
