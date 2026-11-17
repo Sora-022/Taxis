@@ -1,5 +1,9 @@
 # Taxis
 
+<p align="center">
+  <img src="launcher/artwork/taxis-icon.svg" alt="Taxis logo" width="180">
+</p>
+
 A safe, reversible Windows tool for simplifying Android TV, Google TV, and Amazon Fire TV.
 
 Taxis can switch off selected preinstalled apps, install Taxis Launcher, manage the Home button, and restore recorded settings. Apps are disabled—not uninstalled—and cleaning sessions can be undone.
