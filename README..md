@@ -10,6 +10,25 @@ Taxis can switch off selected preinstalled apps, install Taxis Launcher, manage 
 
 ![Taxis Results screen](assets/images/gui-results.png)
 
+## Before and after
+
+Stock Google TV Home is full of promoted content and recommendations. After setting up Taxis Home, you get a clock, the weather, and a simple app grid.
+
+<table>
+  <tr>
+    <th width="50%">Before: stock Google TV</th>
+    <th width="50%">After: Taxis Launcher</th>
+  </tr>
+  <tr>
+    <td><img src="assets/images/before-google-tv-home.png" alt="Stock Google TV home screen with a large promoted banner and recommendation rows"></td>
+    <td><img src="assets/images/after-taxis-launcher-home.png" alt="Taxis Launcher home screen with a large clock, date, weather, and Apps, Quick settings and Settings buttons"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/images/before-google-tv-apps.png" alt="Stock Google TV Your apps row followed by Top selling movies and Popular movies for less rows"></td>
+    <td><img src="assets/images/after-taxis-launcher-apps.png" alt="Taxis Launcher app grid showing 24 apps in four columns"></td>
+  </tr>
+</table>
+
 ## Download for Windows
 
 Download `Taxis.exe` from the [latest GitHub release](../../releases/latest).
